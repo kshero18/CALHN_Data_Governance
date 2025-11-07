@@ -1,0 +1,3 @@
+rule,valid_records,total_records,percent_valid
+count_non_negative,18,42,42.86
+year_valid,42,42,100.0

@@ -1,0 +1,7 @@
+{
+  "name": "CALHN Theme",
+  "dataColors": ["#00558C", "#B3D7F0", "#6E6E6E", "#E6E6E6"],
+  "background": "#FFFFFF",
+  "foreground": "#404040",
+  "tableAccent": "#00558C"
+}
